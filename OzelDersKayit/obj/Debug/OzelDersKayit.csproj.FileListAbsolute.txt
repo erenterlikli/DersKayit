@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\bin\Debug\OzelDersKayit.exe.config
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\bin\Debug\OzelDersKayit.exe
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\bin\Debug\OzelDersKayit.pdb
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\obj\Debug\OzelDersKayit.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\obj\Debug\OzelDersKayit.Form1.resources
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\obj\Debug\OzelDersKayit.Properties.Resources.resources
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\obj\Debug\OzelDersKayit.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\obj\Debug\OzelDersKayit.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\obj\Debug\OzelDersKayit.exe
+C:\Users\Eren\source\repos\OzelDersKayit\OzelDersKayit\obj\Debug\OzelDersKayit.pdb
